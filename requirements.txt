@@ -34,7 +34,6 @@ SpeechRecognition
 pytz
 pySmartDL
 wget
-git+https://github.com/yt-dlp/yt-dlp
 schedule
 pydub
 playsound
